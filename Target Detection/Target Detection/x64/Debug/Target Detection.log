@@ -1,0 +1,23 @@
+﻿  target_detection.cpp
+c:\bruce\en01\3rd year 2nd semster\egh450\target detection\target detection\target_detection.cpp(100): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\bruce\en01\3rd year 2nd semster\egh450\target detection\target detection\target_detection.cpp(101): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\bruce\en01\3rd year 2nd semster\egh450\target detection\target detection\target_detection.cpp(118): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\bruce\en01\3rd year 2nd semster\egh450\target detection\target detection\target_detection.cpp(119): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\bruce\en01\3rd year 2nd semster\egh450\target detection\target detection\target_detection.cpp(89): warning C4715: 'find_target': not all control paths return a value
+  Target Detection.vcxproj -> C:\Bruce\EN01\3rd year 2nd semster\EGH450\Target Detection\x64\Debug\Target Detection.exe
